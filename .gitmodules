@@ -1,3 +1,6 @@
 [submodule "Libraries/Type-C.pretty"]
 	path = Libraries/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty.git
+[submodule "Libraries/Keebio-Parts.pretty"]
+	path = Libraries/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
