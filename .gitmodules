@@ -4,3 +4,6 @@
 [submodule "Libraries/Keebio-Parts.pretty"]
 	path = Libraries/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "Libraries/keebio-components"]
+	path = Libraries/keebio-components
+	url = https://github.com/keebio/keebio-components.git
